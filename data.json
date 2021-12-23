@@ -1,0 +1,140 @@
+{
+    "name": "Marcelo Domínguez",
+    "landing": {
+        "title": "Hi, I'm Marcelo",
+        "subtitles": [
+            "Backend developer &#127760;",
+            "Exploring cloud &#9729;",
+            "Constant learning &#9749;",
+            "Just getting started &#128200;"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "marcelo-dm",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/marcelo-dom%C3%ADnguez-b0b282203/"
+            },
+            {
+                "alt": "sa4dus",
+                "icon": "freelancer",
+                "link": "https://www.freelancer.es/u/Sa4dUs"
+            },
+            {
+                "alt": "sa4dus",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/14773680/sa4dus?tab=profile"
+            },
+            {
+                "alt": "sa4dus",
+                "icon": "github",
+                "link": "https://github.com/Sa4dUs"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:dmmarcelo27@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "C++"
+        ],
+        "Frontend": [
+            "React",
+            "jQuery"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "PostgreSQL"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/sa4dus/",
+        "repositories": [
+            "book-rental-app",
+            "authentication-app",
+            "proxy-server",
+            "tlhackathon",
+            "pokedex"
+        ]
+    },
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": "",
+                "role": "Backend Developer",
+                "type": "",
+                "startDate": "",
+                "endDate": "",
+                "city": "",
+                "state": "",
+                "country": "",
+                "url": "",
+                "thumbnail": ""
+            }
+        ],
+        "Volunteer Experience": [
+            {
+                "organization": "",
+                "role": "Backend Developer",
+                "type": "",
+                "startDate": "",
+                "endDate": "",
+                "city": "",
+                "state": "",
+                "country": "",
+                "url": "",
+                "thumbnail": ""
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a backend developer, pursuing my Mathematics and Informatics Engineering double degree at Seville University. I strive to make safe and solid backend services and consistent databases.",
+        "picture": "/profile.png",
+        "social": [
+            {
+                "alt": "_dmmarce.27",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/_dmmarce.27/"
+            },
+            {
+                "alt": "sa4dus_dev",
+                "icon": "twitter",
+                "link": "https://twitter.com/sa4dus_dev"
+            },
+            {
+                "alt": "sa4dus#8723",
+                "icon": "discord",
+                "link": "https://discord.com/"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
