@@ -41,29 +41,24 @@
             "HTML5",
             "CSS3",
             "JavaScript",
-            "TypeScript",
             "Python",
             "C++"
         ],
         "Frontend": [
             "React",
-            "jQuery"
+            "Bootstrap"
         ],
-        "Backend, Database and Cloud": [
+        "Backend": [
             "Node.js",
             "Express",
-            "MongoDB",
-            "PostgreSQL"
+            "MongoDB"
         ]
     },
     "projects": {
         "baseURI": "https://api.github.com/repos/sa4dus/",
         "repositories": [
-            "book-rental-app",
-            "authentication-app",
-            "proxy-server",
-            "tlhackathon",
-            "pokedex"
+            "authentication-app-client",
+            "authentication-app-server"
         ]
     },
     "experience": {
@@ -97,7 +92,7 @@
         ]
     },
     "about": {
-        "description": "I am a backend developer, pursuing my Mathematics and Informatics Engineering double degree at Seville University. I strive to make safe and solid backend services and consistent databases.",
+        "description": "I am a backend developer, pursuing my Mathematics and Software Engineering double degree at Rey Juan Carlos University. I strive to make safe and solid backend services and consistent databases.",
         "picture": "/profile.png",
         "social": [
             {

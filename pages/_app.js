@@ -5,7 +5,7 @@ import { MuiThemeProvider, useMediaQuery, CssBaseline } from "@material-ui/core"
 import { darkTheme, lightTheme } from "../src/theme"
 
 export default function MyApp({ Component, pageProps }) {
-	const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)")
+	const prefersDarkMode = useMediaQuery("(prefers-color-scheme: light)")
 	const [theme, setTheme] = useState(prefersDarkMode ? darkTheme : lightTheme)
 
 	useEffect(() => {
