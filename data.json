@@ -57,42 +57,11 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/sa4dus/",
         "repositories": [
-            "authentication-app-client",
-            "authentication-app-server"
-        ]
-    },
-    "experience": {
-        "Work Experience": [
-            {
-                "organization": "",
-                "role": "Backend Developer",
-                "type": "",
-                "startDate": "",
-                "endDate": "",
-                "city": "",
-                "state": "",
-                "country": "",
-                "url": "",
-                "thumbnail": ""
-            }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "",
-                "role": "Backend Developer",
-                "type": "",
-                "startDate": "",
-                "endDate": "",
-                "city": "",
-                "state": "",
-                "country": "",
-                "url": "",
-                "thumbnail": ""
-            }
+            "authentication-app"
         ]
     },
     "about": {
-        "description": "I am a backend developer, pursuing my Mathematics and Software Engineering double degree at Rey Juan Carlos University. I strive to make safe and solid backend services and consistent databases.",
+        "description": "I am a fullstack developer, pursuing my Mathematics and Software Engineering double degree at Rey Juan Carlos University. I strive to make safe and solid backend services and consistent databases.",
         "picture": "/profile.png",
         "social": [
             {
